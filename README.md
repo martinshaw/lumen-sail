@@ -5,5 +5,5 @@ composer require mahdiraad/lumen-sail
 
 Add this line to bootstrap/app.php
 
-$app->register(mahdiraad\LumenSail\LumenSailServiceProvider::class);
+$app->register(martinshaw\LumenSail\LumenSailServiceProvider::class);
 

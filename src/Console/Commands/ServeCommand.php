@@ -1,6 +1,6 @@
 <?php
 
-namespace mahdiraad\lumensail\Console\Commands;
+namespace martinshaw\LumenSail\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Env;
