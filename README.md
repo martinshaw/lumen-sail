@@ -1,7 +1,7 @@
 # lumen-sail
 Installing Laravel Sail Package in Lumen
 
-composer require mahdiraad/lumen-sail
+composer require martinshaw/lumen-sail
 
 Add this line to bootstrap/app.php
 
